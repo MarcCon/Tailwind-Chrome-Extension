@@ -1,4 +1,3 @@
-// Funktion zum Bestimmen der aktuellen Tailwind-Responsive-Klasse
 function getCurrentTailwindClass(width) {
   if (width >= 1536) {
     return "2xl";
