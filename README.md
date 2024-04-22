@@ -3,5 +3,5 @@ Die Chrome-Extension zeigt die aktuelle Breakpoint-Größe von Tailwind an, was 
 
 
 
-
+<img src="tailwindextension.png" width={400}/>
 
